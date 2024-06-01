@@ -10,6 +10,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]:(https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BweRQBFt2TY%2BSawTAlEN3Ow%3D%3D)
+[linkedin]:www.linkedin.com/in/anthonycleveland
+
 
 <!--
