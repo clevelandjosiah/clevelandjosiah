@@ -3,8 +3,6 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/clevelandjosiah/Azure-Honeynet)
-- <b>Networking Projects</b>
-  - [Network Traffic Visualization using Python and Google Maps](https://github.com/clevelandjosiah/Network-Visualization/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
