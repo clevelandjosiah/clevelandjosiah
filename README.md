@@ -1,4 +1,4 @@
-<h1>Josiah's Portfolio <br/><a href="https://github.com/joshmadakor1"> <a href="https://www.linkedin.com/in/joshmadakor/">Technological Specialist</a>
+<h1>Josiah's Portfolio <br/><a href="https://github.com/joshmadakor1"> <a href="https://www.linkedin.com/in/joshmadakor/">Cloud Administrator/Engineer</a>
 <h2>💻 Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
